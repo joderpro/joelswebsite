@@ -1,2 +1,16 @@
-
-
+.naviele:focus{
+    background-color: darkgrey;
+    color: black;
+}
+.naviele:hover{
+    background-color: darkgrey;
+    color: black;
+}
+.navielefoot:hover{
+    background-color: darkgrey;
+    color: black;
+}
+.navielefoot:focus{
+    background-color: darkgrey;
+    color: black;
+}
